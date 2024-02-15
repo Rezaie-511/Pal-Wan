@@ -1,8 +1,8 @@
-rm-rf Pal Wan
+rm-rf Pal-Wan
 
 git clone https://github.com/Rezaie-511/Pal-Wan.git
 
-cd Pal Wan
+cd Pal-Wan
 
 ls
 
