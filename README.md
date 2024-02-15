@@ -6,4 +6,4 @@ cd Pal Wan
 
 ls
 
-python p.pyc
+python P.pyc
