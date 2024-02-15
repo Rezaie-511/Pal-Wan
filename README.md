@@ -6,4 +6,4 @@ cd Pal-Wan
 
 ls
 
-python P.pyc
+Python P.pyc
